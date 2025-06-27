@@ -1,42 +1,66 @@
-# NAME: Download
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:01
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 1
-# PROCESS-NAME: 28
-# TOTAL: 34
-DOMAIN-SUFFIX,qbittorrent.org
-DOMAIN-KEYWORD,aria2
+# 115
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,115img.com
+DOMAIN-SUFFIX,116cd.cn
+DOMAIN-SUFFIX,116cd.com
+DOMAIN-SUFFIX,116cd.net
+DOMAIN-SUFFIX,anxia.com
+DOMAIN-SUFFIX,sq.cc
+DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+
+# Xunlei 迅雷
 DOMAIN-KEYWORD,thunder
-DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,kanimg.com
+DOMAIN-SUFFIX,kankan.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,xunlei.com
+PROCESS-NAME,Thunder
+PROCESS-NAME,Thunder.exe
+
+
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,yunpan
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-SUFFIX,smtp
+PROCESS-NAME,aria2c
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,BitComet
-PROCESS-NAME,BitComet.exe
 PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DownloadService
 PROCESS-NAME,DownloadService.exe
+PROCESS-NAME,fdm
+PROCESS-NAME,fdm.exe
 PROCESS-NAME,Folx
 PROCESS-NAME,Folx.exe
 PROCESS-NAME,NetTransport
 PROCESS-NAME,NetTransport.exe
-PROCESS-NAME,Thunder
-PROCESS-NAME,Thunder.exe
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,Transmission
 PROCESS-NAME,Transmission.exe
+PROCESS-NAME,uTorrent
+PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper.exe
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrentHelper
 PROCESS-NAME,WebTorrentHelper.exe
 PROCESS-NAME,Weiyun
 PROCESS-NAME,Weiyun.exe
-PROCESS-NAME,aria2c
-PROCESS-NAME,aria2c.exe
-PROCESS-NAME,baidunetdisk.exe
-PROCESS-NAME,fdm
-PROCESS-NAME,fdm.exe
-PROCESS-NAME,qbittorrent
-PROCESS-NAME,qbittorrent.exe
-PROCESS-NAME,uTorrent
-PROCESS-NAME,uTorrent.exe
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
+URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
+URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+URL-REGEX,(Subject|HELO|SMTP)
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)
