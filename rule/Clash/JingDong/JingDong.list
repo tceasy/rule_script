@@ -1,9 +1,4 @@
-# NAME: JingDong
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:35
-# DOMAIN-SUFFIX: 248
-# TOTAL: 248
+# JD
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
@@ -98,7 +93,9 @@ DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,duiou.com.cn
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,goselling.com
+DOMAIN-SUFFIX,healthjd.com
 DOMAIN-SUFFIX,ibaitiao.com
 DOMAIN-SUFFIX,info-insur.com
 DOMAIN-SUFFIX,isvjcloud.com
@@ -193,6 +190,7 @@ DOMAIN-SUFFIX,jdd-global.com
 DOMAIN-SUFFIX,jddapeigou.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jddglobal.com
+DOMAIN-SUFFIX,jddj.com
 DOMAIN-SUFFIX,jddtv.cn
 DOMAIN-SUFFIX,jddtv.com
 DOMAIN-SUFFIX,jdemall.com
@@ -202,6 +200,8 @@ DOMAIN-SUFFIX,jdfmgt.com
 DOMAIN-SUFFIX,jdfw1.com
 DOMAIN-SUFFIX,jdgslb.com
 DOMAIN-SUFFIX,jdgslb.net
+DOMAIN-SUFFIX,jdh.com
+DOMAIN-SUFFIX,jdindustry.com
 DOMAIN-SUFFIX,jdjinrong.com
 DOMAIN-SUFFIX,jdl.cn
 DOMAIN-SUFFIX,jdl.com
@@ -215,6 +215,7 @@ DOMAIN-SUFFIX,jdworldwide.com
 DOMAIN-SUFFIX,jdx.com
 DOMAIN-SUFFIX,jhscm.com
 DOMAIN-SUFFIX,jingdong.com
+DOMAIN-SUFFIX,jingdonghealth.cn
 DOMAIN-SUFFIX,jingdongjinrong.com
 DOMAIN-SUFFIX,jingpinhui.com
 DOMAIN-SUFFIX,jingxi.com
@@ -235,8 +236,11 @@ DOMAIN-SUFFIX,qianxun.com
 DOMAIN-SUFFIX,qingzhouip.com
 DOMAIN-SUFFIX,sgsic.com
 DOMAIN-SUFFIX,shlsyb.com
+DOMAIN-SUFFIX,sqqmtj.com
 DOMAIN-SUFFIX,toplife.com
 DOMAIN-SUFFIX,vg.com
+DOMAIN-SUFFIX,vipmro.com
+DOMAIN-SUFFIX,vipmro.net
 DOMAIN-SUFFIX,wanggou.com
 DOMAIN-SUFFIX,wangyin.com
 DOMAIN-SUFFIX,wdfok.com
@@ -244,6 +248,7 @@ DOMAIN-SUFFIX,wuliujie.cn
 DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,xianjiqun.com
 DOMAIN-SUFFIX,xjoycity.com
+DOMAIN-SUFFIX,ybscjp.com
 DOMAIN-SUFFIX,yhcdn.cn
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yihaodian.com
@@ -252,3 +257,6 @@ DOMAIN-SUFFIX,yihaomall.com
 DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
+DOMAIN-SUFFIX,yunpei.com
+DOMAIN-SUFFIX,yunxiu.com
+
